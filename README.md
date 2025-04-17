@@ -1,4 +1,4 @@
-<h1 align="center">Hello 💫, I'm Brandon</h1>
+<h1 align="center">Hello 💫, I'm brandon</h1>
 <h3 align="center">A Cybersecurity enthusiast dedicated to innovating and helping people understand how to protect their personal privacy.</h3>
 
 - 🔭 I’m currently working on [Front end Landing page](brdndon.pages.dev)
