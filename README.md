@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [brdndon.pages.dev/blog](brdndon.pages.dev/blog)
 
-- 💬 Ask me about **My blog: brdndon.pages.dev/blog**
-
 - 📫 How to reach me **brdndon@pm.me**
 
 
