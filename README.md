@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, Python, always learning new things about cybersecurity!**
 
-- 👨‍💻 All of my projects are available at [brdndon.pages.dev](brdndon.pages.dev)
+- 👨‍💻 All of my projects are available at [brdndon.pages.dev](https://brdndon.pages.dev/projects)
 
 - 📝 I regularly write articles on [brdndon.pages.dev/blog](brdndon.pages.dev/blog)
 
