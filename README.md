@@ -1,7 +1,7 @@
 <h1 align="center">Hello 💫, I'm brandon</h1>
 <h3 align="center">A Cybersecurity enthusiast dedicated to innovating and helping people understand how to protect their personal privacy.</h3>
 
-- 🔭 I’m currently working on [Front end Landing page](brdndon.pages.dev)
+- 🔭 I’m currently working on [Front end Landing page](https://brdndon.pages.dev)
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, Python, always learning new things about cybersecurity!**
 
