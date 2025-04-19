@@ -1,13 +1,13 @@
 <h1 align="center">Hello 💫, I'm brandon</h1>
 <h3 align="center">A Cybersecurity enthusiast dedicated to innovating and helping people understand how to protect their personal privacy.</h3>
 
-- 🔭 I’m currently working on a [Front End landing page](https://brdndon.pages.dev)
+- 🔭 I’m currently working on a [Front End landing page](https://branalytic.com)
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, Python, always learning new things about cybersecurity!**
 
-- 👨‍💻 All of my projects are available at [brdndon.pages.dev](https://brdndon.pages.dev/projects)
+- 👨‍💻 All of my projects are available at [brdndon.pages.dev](https://branalytic.com/projects)
 
-- 📝 I regularly write articles on [brdndon.pages.dev/blog](brdndon.pages.dev/blog)
+- 📝 I regularly write articles on [brdndon.pages.dev/blog](branalytic.com/blog)
 
 - 📫 How to reach me **brdndon@pm.me**
 
