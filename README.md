@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [branalytic.com](https://branalytic.com/projects)
 
-- 📝 I regularly write articles on [branalytic.com](https://branalytic.com/blog)
+- 📝 I regularly write articles on [branalytic.com/blog](https://branalytic.com/blog)
 
-- 📫 How to reach me **contact@branalytic.com**
+- 📫 How to reach me **hi@branalytic.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
