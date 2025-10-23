@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, Python**, pursuing **SOC Level 1 skills on TryHackMe**, and always learning new things about cybersecurity!
 
-- 👨‍💻 All of my projects are available at [branalytic.com](https://branalytic.com/projects)
+- 👨‍💻 All of my projects are available at [branalytic.com/projects](https://branalytic.com/projects)
 
 - 📝 I regularly write articles on [branalytic.com/blog](https://branalytic.com/blog)
 
