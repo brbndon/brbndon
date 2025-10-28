@@ -1,13 +1,13 @@
 <svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Brandon — Cybersecurity &amp; Privacy">
   <defs>
     <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2563eb">
+      <stop offset="0%" stop-color="#5e1f8e">
         <animate attributeName="offset" values="0;1;0" dur="12s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="50%" stop-color="#9333ea">
+      <stop offset="50%" stop-color="#ffffff">
         <animate attributeName="offset" values="0.5;0;0.5" dur="12s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#059669">
+      <stop offset="100%" stop-color="#5e1f8e">
         <animate attributeName="offset" values="1;0;1" dur="12s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
