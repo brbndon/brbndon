@@ -1,15 +1,9 @@
 <svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Brandon — Cybersecurity &amp; Privacy">
   <defs>
     <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#5e1f8e">
-        <animate attributeName="offset" values="0;1;0" dur="12s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#ffffff">
-        <animate attributeName="offset" values="0.5;0;0.5" dur="12s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#5e1f8e">
-        <animate attributeName="offset" values="1;0;1" dur="12s" repeatCount="indefinite"/>
-      </stop>
+      <stop offset="0%" stop-color="#5e1f8e"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#5e1f8e"/>
     </linearGradient>
     <radialGradient id="bg" cx="50%" cy="50%" r="70%">
       <stop offset="0%" stop-color="#ffffff"/>
@@ -17,8 +11,6 @@
     </radialGradient>
   </defs>
   <rect width="100%" height="100%" fill="url(#bg)"/>
-  <g>
-    <text x="50%" y="46%" fill="url(#g1)" font-size="56" font-weight="700" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica Neue, Arial" text-anchor="middle">Brandon — Cybersecurity &amp; Privacy</text>
-    <text x="50%" y="70%" fill="#334155" font-size="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">SOC L1 • Web Security • JS/TS • Python • TryHackMe</text>
-  </g>
+  <text x="50%" y="46%" fill="url(#g1)" font-size="56" font-weight="700" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica Neue, Arial" text-anchor="middle">Brandon — Cybersecurity &amp; Privacy</text>
+  <text x="50%" y="70%" fill="#334155" font-size="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">SOC L1 • Web Security • JS/TS • Python • TryHackMe</text>
 </svg>
