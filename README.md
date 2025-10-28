@@ -17,11 +17,11 @@
 
 ---
 
-- 🔭 I’m currently working on a <a href="https://branalytic.com">Front End Web Portfolio</a>  
-- 🌱 I’m currently learning <b>JavaScript, TypeScript, Python</b>, pursuing <b>SOC Level 1 skills on TryHackMe</b>, and always learning new things about cybersecurity!  
-- 👨‍💻 All of my projects are available at <a href="https://branalytic.com/projects">branalytic.com/projects</a>  
-- 📝 I regularly write articles on <a href="https://branalytic.com/blog">branalytic.com/blog</a>  
-- 📫 How to reach me: <b>hi@branalytic.com</b>
+- i’m currently working on a <a href="https://branalytic.com">Front End Web Portfolio</a>  
+- i’m currently learning <b>JavaScript, TypeScript, Python</b>, pursuing <b>SOC Level 1 skills on TryHackMe</b>, and always learning new things about cybersecurity!  
+- all of my projects are available at <a href="https://branalytic.com/projects">branalytic.com/projects</a>  
+- i regularly write articles on <a href="https://branalytic.com/blog">branalytic.com/blog</a>  
+- how to reach me: <b>hi@branalytic.com</b>
 
 ---
 
