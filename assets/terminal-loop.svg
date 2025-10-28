@@ -10,8 +10,24 @@
     </linearGradient>
     <style>
       @keyframes blink { 50% { opacity: 0; } }
+      @keyframes fadeInOut {
+        0%,33% { opacity: 1; }
+        34%,100% { opacity: 0; }
+      }
+      @keyframes fadeInOut2 {
+        0%,33% { opacity: 0; }
+        34%,66% { opacity: 1; }
+        67%,100% { opacity: 0; }
+      }
+      @keyframes fadeInOut3 {
+        0%,66% { opacity: 0; }
+        67%,100% { opacity: 1; }
+      }
       .cursor { animation: blink 1s steps(1) infinite; }
       .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace; }
+      #l1 { animation: fadeInOut 9s linear infinite; }
+      #l2 { animation: fadeInOut2 9s linear infinite; }
+      #l3 { animation: fadeInOut3 9s linear infinite; }
     </style>
   </defs>
 
@@ -21,20 +37,10 @@
     <text x="180" y="44" fill="#64748b">~/profile</text>
     <text x="24" y="76"><tspan fill="#22d3ee">$</tspan> cat FOCUS.md</text>
 
-    <text id="l1" x="24" y="110">
-      <tspan fill="#a78bfa">• </tspan>Building privacy-first web tools for camps & councils
-    </text>
-    <text id="l2" x="24" y="140" opacity="0">
-      <tspan fill="#a78bfa">• </tspan>Learning JS/TS/Python → applying in SOC L1 workflows
-    </text>
-    <text id="l3" x="24" y="170" opacity="0">
-      <tspan fill="#a78bfa">• </tspan>Writing about security & clear digital habits
-    </text>
+    <text id="l1" x="24" y="110"><tspan fill="#a78bfa">• </tspan>Building privacy-first web tools for camps &amp; councils</text>
+    <text id="l2" x="24" y="140" opacity="0"><tspan fill="#a78bfa">• </tspan>Learning JS/TS/Python → applying in SOC L1 workflows</text>
+    <text id="l3" x="24" y="170" opacity="0"><tspan fill="#a78bfa">• </tspan>Writing about security &amp; clear digital habits</text>
 
     <text x="1030" y="190" class="cursor">▍</text>
   </g>
-
-  <animate xlink:href="#l1" attributeName="opacity" values="1;1;0" dur="9s" begin="0s" repeatCount="indefinite"/>
-  <animate xlink:href="#l2" attributeName="opacity" values="0;1;0" dur="9s" begin="3s" repeatCount="indefinite"/>
-  <animate xlink:href="#l3" attributeName="opacity" values="0;1;1" dur="9s" begin="6s" repeatCount="indefinite"/>
 </svg>
