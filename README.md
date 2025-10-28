@@ -1,17 +1,38 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+    <img alt="Brandon — Cybersecurity & Privacy" src="assets/banner-light.svg" />
+  </picture>
+</p>
+
 <h1 align="center">Hello 💫, I'm brandon</h1>
 <h3 align="center">A Cybersecurity enthusiast dedicated to innovating and helping people understand how to protect their personal privacy.</h3>
 
-- 🔭 I’m currently working on a [Front End Web Portfolio](https://branalytic.com)
+<p align="center">
+  <a href="https://branalytic.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-branalytic.com-0e75b6.svg?style=for-the-badge"></a>
+  <a href="https://branalytic.com/projects"><img alt="Projects" src="https://img.shields.io/badge/Projects-View-4c9a2a.svg?style=for-the-badge"></a>
+  <a href="https://branalytic.com/blog"><img alt="Blog" src="https://img.shields.io/badge/Blog-Read-8a2be2.svg?style=for-the-badge"></a>
+  <a href="mailto:hi@branalytic.com"><img alt="Email" src="https://img.shields.io/badge/Contact-hi@branalytic.com-ff6b6b.svg?style=for-the-badge"></a>
+</p>
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, Python**, pursuing **SOC Level 1 skills on TryHackMe**, and always learning new things about cybersecurity!
+---
 
-- 👨‍💻 All of my projects are available at [branalytic.com/projects](https://branalytic.com/projects)
+- 🔭 I’m currently working on a <a href="https://branalytic.com">Front End Web Portfolio</a>  
+- 🌱 I’m currently learning <b>JavaScript, TypeScript, Python</b>, pursuing <b>SOC Level 1 skills on TryHackMe</b>, and always learning new things about cybersecurity!  
+- 👨‍💻 All of my projects are available at <a href="https://branalytic.com/projects">branalytic.com/projects</a>  
+- 📝 I regularly write articles on <a href="https://branalytic.com/blog">branalytic.com/blog</a>  
+- 📫 How to reach me: <b>hi@branalytic.com</b>
 
-- 📝 I regularly write articles on [branalytic.com/blog](https://branalytic.com/blog)
+---
 
-- 📫 How to reach me **hi@branalytic.com**
+### Featured
+<p align="center">
+  <img src="assets/terminal-loop.svg" width="720" alt="Animated Terminal — Brandon Focus Areas" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### Languages & Tools
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -32,3 +53,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+### Stats (auto-generated)
+<p>
+  <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=brbndon&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+
+
