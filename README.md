@@ -1,11 +1,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-    <img alt="Brandon — Cybersecurity & Privacy" src="assets/banner-light.svg" />
+    <img alt="brandon — Cybersecurity & Privacy" src="assets/banner-light.svg" />
   </picture>
 </p>
 
-<h1 align="center">Hello 💫, I'm brandon</h1>
+<h1 align="center">hello 💫, i'm brandon</h1>
 <h3 align="center">A Cybersecurity enthusiast dedicated to innovating and helping people understand how to protect their personal privacy.</h3>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ### Featured
 <p align="center">
-  <img src="assets/terminal-loop.svg" width="720" alt="Animated Terminal — Brandon Focus Areas" />
+  <img src="assets/terminal-loop.svg" width="720" alt="Animated Terminal — brandon Focus Areas" />
 </p>
 
 ---
