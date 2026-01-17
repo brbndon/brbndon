@@ -1,10 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-    <img alt="brandon — Cybersecurity & Privacy" src="assets/banner-light.svg" />
-  </picture>
-</p>
-
 <h1 align="center">hello 💫, i'm brandon</h1>
 <h3 align="center">A Cybersecurity enthusiast dedicated to innovating and helping people understand how to protect their personal privacy.</h3>
 
