@@ -1,5 +1,5 @@
 <h1 align="center">hello 💫, i'm brandon</h1>
-<h3 align="center">A Cybersecurity enthusiast dedicated to innovating and helping people understand how to protect their personal privacy.</h3>
+<h3 align="center">a cybersecurity enthusiast dedicated to innovating and helping people understand how to protect their personal privacy.</h3>
 
 <p align="center">
   <a href="https://branalytic.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-branalytic.com-0e75b6.svg?style=for-the-badge"></a>
@@ -11,16 +11,16 @@
 ---
 
 - i’m currently working on a <a href="https://branalytic.com">Front End Web Portfolio</a>  
-- i’m currently learning <b>JavaScript, TypeScript, Python</b>, pursuing <b>SOC Level 1 skills on TryHackMe</b>, and always learning new things about cybersecurity!  
+- i’m currently learning <b>JavaScript, TypeScript, TailwindCSS, Convex (db), Python</b>, while actively <b>improving my security posture</b>, and always learning new things about cybersecurity!  
 - all of my projects are available at <a href="https://branalytic.com/projects">branalytic.com/projects</a>  
-- i regularly write articles on <a href="https://branalytic.com/blog">branalytic.com/blog</a>  
+- i sometimes write articles on <a href="https://branalytic.com/blog">branalytic.com/blog</a>  
 - how to reach me: <b>hi@branalytic.com</b>
 
 ---
 
 ### Featured
 <p align="center">
-  <img src="assets/terminal-loop.svg" width="720" alt="Animated Terminal — brandon Focus Areas" />
+  <img src="assets/terminal-loop.svg" width="720" alt="Animated Terminal — brandon's focus areas" />
 </p>
 
 ---
