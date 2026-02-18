@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://branalytic.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-branalytic.com-0e75b6.svg?style=for-the-badge"></a>
   <a href="https://branalytic.com/projects"><img alt="Projects" src="https://img.shields.io/badge/Projects-View-4c9a2a.svg?style=for-the-badge"></a>
-  <a href="https://branalytic.com/blog"><img alt="Blog" src="https://img.shields.io/badge/Blog-Read-8a2be2.svg?style=for-the-badge"></a>
   <a href="mailto:hi@branalytic.com"><img alt="Email" src="https://img.shields.io/badge/Contact-hi@branalytic.com-ff6b6b.svg?style=for-the-badge"></a>
 </p>
 
@@ -13,7 +12,6 @@
 - i’m currently working on a <a href="https://branalytic.com">Front End Web Portfolio</a>  
 - i’m currently learning <b>JavaScript, TypeScript, TailwindCSS, Convex (db), Python</b>, while actively <b>improving my security posture</b>, and always learning new things about cybersecurity!  
 - all of my projects are available at <a href="https://branalytic.com/projects">branalytic.com/projects</a>  
-- i sometimes write articles on <a href="https://branalytic.com/blog">branalytic.com/blog</a>  
 - how to reach me: <b>hi@branalytic.com</b>
 
 ---
