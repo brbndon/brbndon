@@ -9,9 +9,9 @@
 
 ---
 
-- i’m currently working on a <a href="https://branalytic.com">Front End Web Portfolio</a>  
-- i’m currently learning <b>JavaScript, TypeScript, TailwindCSS, Convex (db), Python</b>, while actively <b>improving my security posture</b>, and always learning new things about cybersecurity!  
-- all of my projects are available at <a href="https://branalytic.com/projects">branalytic.com/projects</a>  
+- i’m currently working on a <a href="https://branalytic.com">Local MacOS Tool</a>  
+- i’m currently learning <b>JavaScript, TypeScript, TailwindCSS, Expo React Native, Swift, Convex (db), Python</b>, while actively <b>improving my security posture</b>, and always learning new things about cybersecurity!  
+- most of my projects are available at <a href="https://branalytic.com/projects">branalytic.com/projects</a>  
 - how to reach me: <b>hi@branalytic.com</b>
 
 ---
