@@ -1,33 +1,24 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-    <img alt="Brandon — Cybersecurity & Privacy" src="assets/banner-light.svg" />
-  </picture>
-</p>
-
-<h1 align="center">Hello 💫, I'm brandon</h1>
-<h3 align="center">A Cybersecurity enthusiast dedicated to innovating and helping people understand how to protect their personal privacy.</h3>
+<h1 align="center">hello 💫, i'm brandon</h1>
+<h3 align="center">a cybersecurity enthusiast dedicated to innovating and helping people understand how to protect their personal privacy.</h3>
 
 <p align="center">
   <a href="https://branalytic.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-branalytic.com-0e75b6.svg?style=for-the-badge"></a>
   <a href="https://branalytic.com/projects"><img alt="Projects" src="https://img.shields.io/badge/Projects-View-4c9a2a.svg?style=for-the-badge"></a>
-  <a href="https://branalytic.com/blog"><img alt="Blog" src="https://img.shields.io/badge/Blog-Read-8a2be2.svg?style=for-the-badge"></a>
   <a href="mailto:hi@branalytic.com"><img alt="Email" src="https://img.shields.io/badge/Contact-hi@branalytic.com-ff6b6b.svg?style=for-the-badge"></a>
 </p>
 
 ---
 
-- i’m currently working on a <a href="https://branalytic.com">Front End Web Portfolio</a>  
-- i’m currently learning <b>JavaScript, TypeScript, Python</b>, pursuing <b>SOC Level 1 skills on TryHackMe</b>, and always learning new things about cybersecurity!  
-- all of my projects are available at <a href="https://branalytic.com/projects">branalytic.com/projects</a>  
-- i regularly write articles on <a href="https://branalytic.com/blog">branalytic.com/blog</a>  
+- i’m currently working on a <a href="https://branalytic.com">Local MacOS Tool</a>  
+- i’m currently learning <b>JavaScript, TypeScript, TailwindCSS, Expo React Native, Swift, Convex (db), Python</b>, while actively <b>improving my security posture</b>, and always learning new things about cybersecurity!  
+- most of my projects are available at <a href="https://branalytic.com/projects">branalytic.com/projects</a>  
 - how to reach me: <b>hi@branalytic.com</b>
 
 ---
 
 ### Featured
 <p align="center">
-  <img src="assets/terminal-loop.svg" width="720" alt="Animated Terminal — Brandon Focus Areas" />
+  <img src="assets/terminal-loop.svg" width="720" alt="Animated Terminal — brandon's focus areas" />
 </p>
 
 ---
